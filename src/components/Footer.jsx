@@ -35,7 +35,11 @@ const Footer = () => {
                 </div>
 
                 <p className="text-center text-gray-500 mt-8">
+<<<<<<< HEAD
                     © {new Date().getFullYear()} Your Name. Built with React & Tailwind CSS.
+=======
+                    © {new Date().getFullYear()} Anshul Kumar. Built with React & Tailwind CSS.
+>>>>>>> be1859e (Update portfolio projects)
                 </p>
 
             </div>

@@ -29,7 +29,11 @@ practical, user-focused software solutions.`,
 
             stats: [
                 {
+<<<<<<< HEAD
                     number: "2+",
+=======
+                    number: "3+",
+>>>>>>> be1859e (Update portfolio projects)
                     title: "Projects"
                 },
                 {
@@ -125,7 +129,11 @@ practical, user-focused software solutions.`,
 
             deploymentOffline: true,
 
+<<<<<<< HEAD
             video:"",
+=======
+            video: "",
+>>>>>>> be1859e (Update portfolio projects)
 
             shortDescription:
                 "An AI-powered platform for managing job applications with resume analysis, cover letter generation and skill gap analysis.",
@@ -212,6 +220,48 @@ practical, user-focused software solutions.`,
                 "https://github.com/anshul1512t/rag-basic-backend",
 
             live: ""
+<<<<<<< HEAD
+=======
+        },
+
+        {
+            id: 3,
+
+            featured: true,
+
+            title: "AWS-Hosted React Website",
+
+            deploymentOffline: false,
+
+            video: "/awsLearnLoomvideo.mp4",
+
+            shortDescription:
+                "A static React website deployed using AWS S3 static website hosting.",
+
+            description:
+                "Developed a static website using React and deployed it on AWS S3, gaining hands-on experience with cloud deployment, static website hosting, and AWS fundamentals.",
+
+            tech: [
+                "React",
+                "JavaScript",
+                "AWS S3",
+                "AWS IAM",
+                "Cloud Deployment"
+            ],
+
+            features: [
+                "Static Website Hosting",
+                "AWS S3 Integration",
+                "Cloud-Based Deployment",
+                "Public Website Access"
+            ],
+
+            githubFrontend: "https://github.com/anshul1512t/awsLearn",
+
+            githubBackend: "",
+
+            live: "http://example.learn-aws.s3-website.ap-south-1.amazonaws.com/index.html"
+>>>>>>> be1859e (Update portfolio projects)
         }
     ],
 
