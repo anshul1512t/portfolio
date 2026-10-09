@@ -29,11 +29,7 @@ practical, user-focused software solutions.`,
 
             stats: [
                 {
-<<<<<<< HEAD
-                    number: "2+",
-=======
                     number: "3+",
->>>>>>> be1859e (Update portfolio projects)
                     title: "Projects"
                 },
                 {
@@ -129,11 +125,7 @@ practical, user-focused software solutions.`,
 
             deploymentOffline: true,
 
-<<<<<<< HEAD
-            video:"",
-=======
             video: "",
->>>>>>> be1859e (Update portfolio projects)
 
             shortDescription:
                 "An AI-powered platform for managing job applications with resume analysis, cover letter generation and skill gap analysis.",
@@ -220,8 +212,7 @@ practical, user-focused software solutions.`,
                 "https://github.com/anshul1512t/rag-basic-backend",
 
             live: ""
-<<<<<<< HEAD
-=======
+
         },
 
         {
@@ -261,7 +252,7 @@ practical, user-focused software solutions.`,
             githubBackend: "",
 
             live: "http://example.learn-aws.s3-website.ap-south-1.amazonaws.com/index.html"
->>>>>>> be1859e (Update portfolio projects)
+
         }
     ],
 
